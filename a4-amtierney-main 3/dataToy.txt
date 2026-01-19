@@ -1,0 +1,10 @@
+The Grapes of Wrath;BOOK;8.65;John Steinbeck;other;USED
+Space Jam;DVD;23.95;1996;Warner Brothers;NEW
+Twilight;BOOK;14.35;Stephenie Meyer;SCIFI;NEW
+Frank Sinatra's Greatest Hits;CD;9.95;1986;Frank's Singers;USED
+A Tale of Two Cities;AUDIOBOOK;27.85;Charles Dickens;mom;USED
+American Pie;RECORD;34.50;1971;NEW
+Pride and Prejudice;BOOK;7.50;Jane Austen;other;NEW
+Foundation;AUDIOBOOK;5.50;Isaac Asimov;dad;USED
+Jane Eyre;BOOK;12.99;Charlotte Bronte;other;NEW
+New Kids on the Block;CD;2.00;1990;the lads;USED 

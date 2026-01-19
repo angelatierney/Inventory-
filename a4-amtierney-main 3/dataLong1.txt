@@ -1,0 +1,117 @@
+A Clash of Kings;BOOK;9.98;George R.R. Martin;other;USED
+Ted;DVD;19.98;2012;bink;NEW
+The Dark Knight;DVD;15.99;2008;bink;USED
+Rainbow Six;AUDIOBOOK;13.99;Tom Clancy;mr. nobody;NEW
+Thor:The Dark World;DVD;29.99;2013;bink;NEW
+The Grapes of Wrath;BOOK;8.65;John Steinbeck;other;USED
+Space Jam;DVD;23.95;1996;bink;USED
+Twilight;BOOK;14.35;Stephenie Meyer;other;NEW
+Frank Sinatras Greatest Hits;CD;9.95;1986;;devo;NEW
+A Tale of Two Cities;AUDIOBOOK;27.85;Charles Dickens;bink;USED
+American Pie;RECORD;34.50;1971;the sponge;USED
+Pride and Prejudice;BOOK;7.50;Jane Austen;other;NEW
+Foundation;AUDIOBOOK;5.50;Isaac Asimov;bink;USED
+Jane Eyre;BOOK;12.99;Charlotte Bronte;other;USED
+New Kids on the Block;CD;2.00;1990;devo;NEW
+The Matrix;DVD;9.99;1999;bink;NEW
+Enders Game;BOOK;5.00;Orson Scott Card;other;USED
+One Flew Over the Cuckoos Nest;BOOK;2.99;Ken Kesey;other;USED
+i, Robot;BOOK;5.85;Isaac Asimov;other;NEW
+Random Access Memories;CD;9.99;2013;devo;USED
+Sigh No More;CD;5.00;2009;devo;NEW
+Babel;CD;6.00;2012;devo;USED
+East of Eden;BOOK;7.95;John Steinbeck;other;USED
+A Game of Thrones;AUDIOBOOK;19.95;George R.R. Martin;bink;NEW
+Pulp Fiction;DVD;8.95;1994;bink;NEW
+The Hunger Games;BOOK;5.39;Suzanne Collins;other;USED
+The Dark Knight Rises;DVD;12.99;2012;bink;USED
+Good Kid: M.A.A.D City;CD;12.25;2012;devo;NEW
+Doctor Sleep: A Novel;AUDIOBOOK;18.00;Stephen King;bink;USED
+Time Out of Mind;RECORD;6.99;1997;the sponge;NEW
+Cry of Love;RECORD;8.99;1980;the sponge;USED
+Forrest Gump;DVD;10.15;1994;bink;NEW
+Couldnt Stand the Weather;RECORD;22.15;1984;the sponge;USED
+The Godfather Collection;DVD;121.00;1972;bink;USED
+The Great Gatsby;BOOK;8.02;F. Scott Fitzgerald;other;USED
+The Kite Runner;BOOK;15.30;Khaled Hosseini;other;NEW
+Harry Potter and the Philosopher’s Stone;AUDIOBOOK;8.40;J. K. Rowling;bink;NEW
+Abbey Road;CD;13.31;1969;devo;USED
+Groundhog Day;DVD;15.86;1993;bink;USED
+My Generation;RECORD;18.53;1965;the sponge;USED
+Office Space;DVD;12.75;1999;bink;USED
+A Thousand Splendid Suns;BOOK;11.86;Khaled Hosseini;other;USED
+Mean Girls;DVD;5.45;2004;bink;NEW
+The Count of Monte Cristo;BOOK;12.45;Alexandre Dumas;other;NEW
+Sherlock Holmes;DVD;11.76;2011;bink;NEW
+Mistborn: The Final Empire;BOOK;8.10;Brandon Sanderson;other;USED
+Homeland;BOOK;12.10;Cory Doctorow;other;NEW
+Star Trek Into Darkness;DVD;22.50;2013;bink;NEW
+The Arabian Nights;BOOK;10.50;Various;other;NEW
+Transformers;DVD;8.79;2003;bink;USED
+Fahrenheit 451;BOOK;11.18;Ray Bradbury;other;USED
+1984;AUDIOBOOK;21.49;George Orwell;bink;NEW
+Rising Force;CD;6.98;1990;devo;USED
+Much Ado About Nothing: The Restored Klingon Text;BOOK;16.10;William Shakespeare;mom;NEW
+How To Use Dianetics;BOOK;22.43;L. Ron Hubbard;other;USED
+Of Mice and Men;BOOK;8.50;John Steinbeck;other;USED
+iWoz;BOOK;8.75;Steve Wozniak;other;USED
+The Secret Garden;BOOK;3.81;Frances Hodgson Burnett;other;USED
+The Office: Complete Seasons 1-4;DVD;33.00;2008;bink;NEW
+Definition of a Band;CD;3.75;1996;devo;USED
+The Casual Vacancy;BOOK;10.80;J.K. Rowling;other;NEW
+Mockingjay;AUDIOBOOK;23.99;Suzanne Collins;bink;NEW
+Primer;DVD;4.99;2004;bink;NEW
+A Clash of Kings;BOOK;9.99;George R. R. Martin;other;NEW
+Slippery When Wet;CD;9.99;1986;devo;USED
+Inception;DVD;14.99;2010;bink;NEW
+Appetite for Destruction;RECORD;12.99;1987;the sponge;USED
+Goldeneye;DVD;15.00;1997;bink;NEW
+The Good, The Bad, and The Ugly;DVD;9.99;1964;bink;NEW
+Adventures of Huckleberry Finn;BOOK;9.00;Mark Twain;other;USED
+Ice Age 4: Continental Drift;DVD;15.00;2012;bink;NEW
+Monsters Inc.;DVD;7.00;2001;bink;NEW
+Pitch Perfect;DVD;14.96;2012;bink;NEW
+Millennium;CD;6.98;1999;devo;NEW
+Bridesmaids;DVD;12.96;2011;bink;NEW
+Because of Winn Dixie;BOOK;3.93;Kate DiCamillo;other;USED
+Safe Haven;BOOK;11.66;Nicholas Sparks;other;NEW
+Ishis Brain;BOOK;14.51;Orin Starn;other;NEW
+Let it Be;RECORD;99.95;1970;the sponge;USED
+American Beauty;DVD;14.99;1999;bink;USED
+Black and Blue;CD;4.85;2000;devo;NEW
+The Giver;AUDIOBOOK;10.99;Lois Lowry;bink;USED
+Scooby Doo;DVD;12.95;1999;bink;NEW
+Flags of Our Fathers;BOOK;14.99;James Bradley;other;NEW
+1St to Die;BOOK;16.88;James Patterson;other;NEW
+20/20 Experience;CD;12.69;2013;devo;NEW
+August Rush;DVD;13.59;2007;bink;NEW
+My Beautiful Dark Twisted Fantasy;CD;8.99;2010;devo;NEW
+The Hitchhiker's Guide to the Galaxy;BOOK;42.00;Douglas Adams;other;USED
+Fight Club;DVD;9.00;1999;bink;NEW
+In the Aeroplane Over the Sea;CD;12.99;1998;devo;NEW
+Untrue;CD;14.60;2007;devo;NEW
+Wizard’s First Rule;BOOK;11.99;Terry GoodKind;other;NEW
+This is the End;DVD;22.00;2013;bink;USED
+A Random Walk Down Wall Street;AUDIOBOOK;13.00;Burton Malkiel;bink;NEW
+Indestructible;CD;12.99;2007;devo;USED
+Ten Years and Twenty Days;BOOK;34.00;Karl Doenitz;other;NEW
+Inferno;BOOK;17.04;Dan Brown;other;NEW
+Beauty and the Beast;DVD;12.35;1991;bink;USED
+The Shawshank Redemption;DVD;15.93;1994;bink;USED
+To Kill A Mockingbird;BOOK;7.99;Harper Lee;other;NEW
+Road To Perdition;DVD;6.79;2002;bink;USED
+Charlie and the Chocolate Factory;BOOK;12.00;Roald Dahl;other;NEW
+Titanic;DVD;15.50;1997;bink;NEW
+A Walk to Remember;DVD;12.99;2002;bink;NEW
+Sgt Pepper’s Lonely Hearts Club Band;RECORD;25.99;1967;the sponge;NEW
+The Secret Garden;BOOK;6.25;Frances Hodgson Burnett;other;NEW
+The Lion King;DVD;15.50;1987;bink;NEW
+Ella Enchanted;DVD;12.82;2008;bink;NEW
+Bend it Like Beckham;DVD;5.99;2002;bink;USED
+The Princess Bride;DVD;5.99;1973;bink;USED
+The Wizard of Oz;DVD;3.99;1939;bink;NEW
+Of Mice and Men;BOOK;5.32;John Steinbeck;other;NEW
+Allegiant (Divergent Trilogy);BOOK;11.99;Veronica Roth;other;NEW
+Diary of a Wimpy Kid: Hard Luck;BOOK;8.11;Jeff Kinney;other;NEW
+Hocus Pocus;DVD;6.96;1993;bink;USED
+The Lost Hero;BOOK;8.78;Rick Riordan;other;NEW
